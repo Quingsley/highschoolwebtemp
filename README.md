@@ -2,6 +2,7 @@
 This is a template website for a High School , Its been created using only HTML,CSS and Js
 
 # Project Problem
+
 Assume you have been contracted to create a website for a local Secondary School (your former 
 high school is suggested). Build and create a simple website of at least 10 web pages. Pages should 
 include text, images, hyperlinks (there should be a navigation menu on each page). Demonstrate the 
